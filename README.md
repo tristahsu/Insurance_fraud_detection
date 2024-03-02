@@ -9,7 +9,7 @@ This project is to identifying fraudulent insurance claims using sophisticated m
 - **Data Cleaning:** Clean the dataset to ensure quality inputs for model training
 
 ## Exploratory Data Analysis (EDA)
-- Conducted EDA to visualize the target variable distribution and address data imbalances, providing deeper insights into the fraud detection challenge
+Conducted EDA to visualize the target variable distribution and address data imbalances, providing deeper insights into the fraud detection challenge
 
 ## Model Building
 - **Decision Tree Classifier:**
@@ -20,7 +20,7 @@ This project is to identifying fraudulent insurance claims using sophisticated m
 - Utilized confusion matrices to further understand model performance
 
 ## Hyperparameter Tuning
-- Applied RandomizedSearchCV and GridSearchCV for fine-tuning, significantly enhancing model accuracy
+Applied RandomizedSearchCV and GridSearchCV for fine-tuning, significantly enhancing model accuracy
 
 ## Technologies Used
 - Python for overall project development
